@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Education_Tech Project
+- 🔭 I’m currently working as a softaware developer at fintech cloud.
 - 🌱 I’m currently learning DSA,Web Development
 - 📫 How to reach me: gpriyanshu752@gmail.com
 - 😄 Pronouns: He/Him
