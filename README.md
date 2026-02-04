@@ -1,9 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a software developer at fintech cloud.
-- 🌱 I’m currently learning DSA,Web Development
 - 📫 How to reach me: gpriyanshu752@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Funny 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-gupta-60a199265) 
